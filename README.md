@@ -1,4 +1,4 @@
-# torch-rl
+# torch7 Reinforcement Learning
 This is a Torch 7 package that implements a few reinforcement learning (RL)
 algorithms. So far, only Q-learning is implemented.
 
